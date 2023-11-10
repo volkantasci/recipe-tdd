@@ -5,3 +5,4 @@ markdown>=3.5,<3.6
 psycopg2
 drf-spectacular
 djangorestframework-simplejwt
+Pillow>= 10.1.0,<10.2
