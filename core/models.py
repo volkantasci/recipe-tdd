@@ -1,7 +1,6 @@
 """
 This file is used to define the models for the core app.
 """
-import decimal
 
 from django.conf import settings
 from django.db import models
